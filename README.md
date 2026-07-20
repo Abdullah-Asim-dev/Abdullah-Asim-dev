@@ -1,10 +1,10 @@
 # Hi, I'm Abdullah Asim 👋
 
-## 🚀 Full Stack Web Developer |
+## 🚀 MERN Stack Developer
 
-I am a passionate developer focused on building modern web applications, automation systems, and AI-powered solutions.
+A developer who is learning MERN and building real-world applications.
 
-Currently, I am learning and building projects with the MERN stack, AI Agents.
+I am a MERN Stack Developer focused on creating modern, scalable, and user-friendly web applications using React.js, Node.js, Express.js, and MongoDB.
 
 ---
 
@@ -28,8 +28,8 @@ Currently, I am learning and building projects with the MERN stack, AI Agents.
 ### Tools & Platforms
 - Git & GitHub
 - Vercel
-- n8n
-- APIs Integration
+- Postman
+- MongoDB Atlas
 
 ---
 
@@ -38,7 +38,7 @@ Currently, I am learning and building projects with the MERN stack, AI Agents.
 ### 🌦️ Weather App
 A weather application that fetches real-time weather information using API integration.
 
-**Tech:** HTML, CSS, JavaScript, API
+**Tech:** HTML, CSS, JavaScript, API Integration
 
 ---
 
@@ -79,19 +79,18 @@ A modern calculator application built using reusable React components.
 
 ## 📚 Currently Learning
 
-- Cloud Computing
-- Generative AI
-- AI Agents
-- Machine Learning
-- Deep Learning
+- Advanced React.js
+- Backend Development
+- Database Management
+- Full Stack Application Architecture
 
 ---
 
 ## 🎯 Goals
 
 - Build scalable full-stack applications
-- Create AI-powered SaaS products
 - Improve software engineering skills
+- Create real-world MERN projects
 - Contribute to open-source projects
 
 ---
@@ -99,7 +98,7 @@ A modern calculator application built using reusable React components.
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abdullah-asim-dev/
-- GitHub: https://github.com/AbdullahAsim66
+- GitHub: https://github.com/Abdullah-Asim-dev
 
 ---
 
