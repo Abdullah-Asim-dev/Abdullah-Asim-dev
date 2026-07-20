@@ -98,7 +98,7 @@ A modern calculator application built using reusable React components.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/abdullah-asim-dev/
 - GitHub: https://github.com/AbdullahAsim66
 
 ---
