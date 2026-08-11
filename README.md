@@ -1,10 +1,10 @@
 # Hi, I'm Abdullah Asim 👋
 
-## 🚀 MERN Stack Developer
+## 🚀 Full-Stack Developer
 
-A developer who is learning MERN and building real-world applications.
+A developer who is learning Full-stack and building real-world applications.
 
-I am a MERN Stack Developer focused on creating modern, scalable, and user-friendly web applications using React.js, Node.js, Express.js, and MongoDB.
+I am a Full-Stack Developer focused on creating modern, scalable, and user-friendly web applications using React.js, Node.js, Express.js, and MongoDB.
 
 ---
 
