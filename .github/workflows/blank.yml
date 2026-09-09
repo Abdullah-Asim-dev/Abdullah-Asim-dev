@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,8 +34,8 @@ jobs:
 
       - name: Commit Stats
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
           git commit -m "Update GitHub stats" || exit 0
           git push
